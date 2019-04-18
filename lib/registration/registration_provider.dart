@@ -1,9 +1,9 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:foody/Api/api.dart';
-import 'package:foody/registration/register.dart';
-import 'package:foody/registration/register_bloc.dart';
+import 'package:rhombus/Api/api.dart';
+import 'package:rhombus/registration/register.dart';
+import 'package:rhombus/registration/register_bloc.dart';
 
 
 class RegistrationProvider extends InheritedWidget {

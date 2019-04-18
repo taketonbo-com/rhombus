@@ -1,9 +1,9 @@
 import 'dart:async';
 
 
-import 'package:foody/Api/api.dart';
-import 'package:foody/category/cat_item_list.dart';
-import 'package:foody/items/food_items.dart';
+import 'package:rhombus/Api/api.dart';
+import 'package:rhombus/category/cat_item_list.dart';
+import 'package:rhombus/items/food_items.dart';
 import 'package:rxdart/rxdart.dart';
 
 class CategoryItemsBloc{

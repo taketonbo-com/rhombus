@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:foody/Api/api.dart';
+import 'package:rhombus/Api/api.dart';
 
-import 'package:foody/items/FoodItemProvider.dart';
-import 'package:foody/items/food_item.dart';
-import 'package:foody/items/food_items.dart';
-import 'package:foody/single_item/SingleItemProvider.dart';
-import 'package:foody/single_item/single_item.dart';
-import 'package:foody/single_item/single_items_bloc.dart';
+import 'package:rhombus/items/FoodItemProvider.dart';
+import 'package:rhombus/items/food_item.dart';
+import 'package:rhombus/items/food_items.dart';
+import 'package:rhombus/single_item/SingleItemProvider.dart';
+import 'package:rhombus/single_item/single_item.dart';
+import 'package:rhombus/single_item/single_items_bloc.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ExtrasScreen extends StatefulWidget {

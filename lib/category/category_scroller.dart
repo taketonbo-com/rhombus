@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foody/category/CategoryItemProvider.dart';
-import 'package:foody/category/cat_item.dart';
-import 'package:foody/category/cat_item_list.dart';
+import 'package:rhombus/category/CategoryItemProvider.dart';
+import 'package:rhombus/category/cat_item.dart';
+import 'package:rhombus/category/cat_item_list.dart';
 
 class CategoryScroller extends StatelessWidget {
 

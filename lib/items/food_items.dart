@@ -1,5 +1,5 @@
 
-import 'package:foody/items/food_item.dart';
+import 'package:rhombus/items/food_item.dart';
 
 class FoodItems {
   final List<FoodItem> items;

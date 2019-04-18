@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import "package:flutter/material.dart";
-import 'package:foody/cart/shopping_cart_item.dart';
+import 'package:rhombus/cart/shopping_cart_item.dart';
 
 import 'package:meta/meta.dart';
 import 'package:shared_preferences/shared_preferences.dart';

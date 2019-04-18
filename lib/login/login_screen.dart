@@ -5,17 +5,17 @@ import 'dart:convert';
 import 'package:firebase_auth/firebase_auth.dart';
 
 import 'package:flutter/material.dart';
-import 'package:foody/cart/CartProvider.dart';
-import 'package:foody/cart/cart_bloc.dart';
-import 'package:foody/login/Home.dart';
-import 'package:foody/registration/registration_provider.dart';
-import 'package:foody/registration/register.dart';
-import 'package:foody/registration/register_bloc.dart';
-import 'package:foody/registration/registration_provider.dart';
-import 'package:foody/utils/authentication.dart';
+import 'package:rhombus/cart/CartProvider.dart';
+import 'package:rhombus/cart/cart_bloc.dart';
+import 'package:rhombus/login/Home.dart';
+import 'package:rhombus/registration/registration_provider.dart';
+import 'package:rhombus/registration/register.dart';
+import 'package:rhombus/registration/register_bloc.dart';
+import 'package:rhombus/registration/registration_provider.dart';
+import 'package:rhombus/utils/authentication.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:foody/Api/api.dart';
+import 'package:rhombus/Api/api.dart';
 import 'package:flutter/scheduler.dart' show timeDilation;
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key key}) : super(key: key);

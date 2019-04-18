@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:foody/Api/api.dart';
-import 'package:foody/cart/cart_item_count.dart';
-import 'package:foody/cart/shopping_cart_items.dart';
+import 'package:rhombus/Api/api.dart';
+import 'package:rhombus/cart/cart_item_count.dart';
+import 'package:rhombus/cart/shopping_cart_items.dart';
 import 'package:rxdart/subjects.dart';
 
 class CartBloc{

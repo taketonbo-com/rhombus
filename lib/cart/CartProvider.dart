@@ -2,9 +2,9 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:foody/cart/cart_bloc.dart';
+import 'package:rhombus/cart/cart_bloc.dart';
 
-import 'package:foody/Api/api.dart';
+import 'package:rhombus/Api/api.dart';
 
 class CartProvider extends InheritedWidget {
   final CartBloc itemBloc;

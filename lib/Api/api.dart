@@ -3,12 +3,12 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:foody/cart/cart_item_count.dart';
-import 'package:foody/cart/response.dart';
-import 'package:foody/cart/shopping_cart_items.dart';
-import 'package:foody/category/cat_item_list.dart';
-import 'package:foody/items/food_item.dart';
-import 'package:foody/items/food_items.dart';
+import 'package:rhombus/cart/cart_item_count.dart';
+import 'package:rhombus/cart/response.dart';
+import 'package:rhombus/cart/shopping_cart_items.dart';
+import 'package:rhombus/category/cat_item_list.dart';
+import 'package:rhombus/items/food_item.dart';
+import 'package:rhombus/items/food_items.dart';
 import 'package:http/http.dart' as http;
 
 class Api{

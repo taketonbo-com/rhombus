@@ -1,10 +1,10 @@
 import 'dart:async';
 
 
-import 'package:foody/Api/api.dart';
-import 'package:foody/items/food_item.dart';
+import 'package:rhombus/Api/api.dart';
+import 'package:rhombus/items/food_item.dart';
 
-import 'package:foody/items/food_items.dart';
+import 'package:rhombus/items/food_items.dart';
 import 'package:rxdart/rxdart.dart';
 
 class CartAddition

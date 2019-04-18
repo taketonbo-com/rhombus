@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:foody/login/login_screen.dart';
-import 'package:foody/login/Home.dart';
-import 'package:foody/utils/style.dart';
+import 'package:rhombus/login/login_screen.dart';
+import 'package:rhombus/login/Home.dart';
+import 'package:rhombus/utils/style.dart';
 
 class Routes {
   Routes() {

@@ -1,17 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:foody/Api/api.dart';
-import 'package:foody/cart/CartProvider.dart';
-import 'package:foody/cart/cart_bloc.dart';
-import 'package:foody/cart/cart_item_count.dart';
-import 'package:foody/cart/shopping_cart.dart';
-import 'package:foody/category/CategoryItemProvider.dart';
+import 'package:rhombus/Api/api.dart';
+import 'package:rhombus/cart/CartProvider.dart';
+import 'package:rhombus/cart/cart_bloc.dart';
+import 'package:rhombus/cart/cart_item_count.dart';
+import 'package:rhombus/cart/shopping_cart.dart';
+import 'package:rhombus/category/CategoryItemProvider.dart';
 
-import 'package:foody/category/Today_menu.dart';
-import 'package:foody/category/category_items_bloc.dart';
-import 'package:foody/category/category_scroller.dart';
-import 'package:foody/items/FoodItemProvider.dart';
-import 'package:foody/items/food_items_bloc.dart';
-import 'package:foody/utils/cart_button.dart';
+import 'package:rhombus/category/Today_menu.dart';
+import 'package:rhombus/category/category_items_bloc.dart';
+import 'package:rhombus/category/category_scroller.dart';
+import 'package:rhombus/items/FoodItemProvider.dart';
+import 'package:rhombus/items/food_items_bloc.dart';
+import 'package:rhombus/utils/cart_button.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class Home extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:foody/Api/api.dart';
-import 'package:foody/registration/register.dart';
+import 'package:rhombus/Api/api.dart';
+import 'package:rhombus/registration/register.dart';
 
 class RegisterBloc {
   final Api api;

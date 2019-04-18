@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:foody/category/category_items_bloc.dart';
-import 'package:foody/Api/api.dart';
-import 'package:foody/items/food_items_bloc.dart';
+import 'package:rhombus/category/category_items_bloc.dart';
+import 'package:rhombus/Api/api.dart';
+import 'package:rhombus/items/food_items_bloc.dart';
 
 class FoodItemProvider extends InheritedWidget {
   final FoodItemsBloc itemBloc;

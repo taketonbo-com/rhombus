@@ -1,9 +1,9 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:foody/cart/CartProvider.dart';
-import 'package:foody/cart/shopping_cart_item.dart';
-import 'package:foody/cart/single_shopping_cart_item.dart';
+import 'package:rhombus/cart/CartProvider.dart';
+import 'package:rhombus/cart/shopping_cart_item.dart';
+import 'package:rhombus/cart/single_shopping_cart_item.dart';
 
 
 import 'package:shared_preferences/shared_preferences.dart';

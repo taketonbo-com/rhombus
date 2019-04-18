@@ -1,4 +1,4 @@
-import 'package:foody/cart/shopping_cart_item.dart';
+import 'package:rhombus/cart/shopping_cart_item.dart';
 
 class ShoppingCartItems{
   final List<ShoppingCartItem> items;

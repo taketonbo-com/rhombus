@@ -1,4 +1,4 @@
-import 'package:foody/category/cat_item.dart';
+import 'package:rhombus/category/cat_item.dart';
 
 class CategoryItems {
   final List<CategoryItem> items;

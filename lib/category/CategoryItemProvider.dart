@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:foody/category/category_items_bloc.dart';
-import 'package:foody/Api/api.dart';
+import 'package:rhombus/category/category_items_bloc.dart';
+import 'package:rhombus/Api/api.dart';
 
 class CategoryItemProvider extends InheritedWidget {
   final CategoryItemsBloc itemBloc;
